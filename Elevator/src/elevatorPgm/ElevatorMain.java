@@ -1,0 +1,10 @@
+package elevatorPgm;
+
+public class ElevatorMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
