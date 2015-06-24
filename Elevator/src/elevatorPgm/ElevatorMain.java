@@ -18,5 +18,4 @@ public class ElevatorMain {
 		ob.print(a);
 		obdup.closeDoors();
 	}
-
 }

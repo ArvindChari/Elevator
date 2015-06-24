@@ -26,5 +26,4 @@ public class Elevator {
 		// TODO Auto-generated method stub
 		
 	}
-
 }
